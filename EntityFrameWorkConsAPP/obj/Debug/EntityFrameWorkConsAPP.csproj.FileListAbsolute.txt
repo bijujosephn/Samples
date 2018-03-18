@@ -1,0 +1,11 @@
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFrameWorkConsAPP.exe.config
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFrameWorkConsAPP.exe
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFrameWorkConsAPP.pdb
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFramework.dll
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFramework.xml
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\obj\Debug\EntityFrameWorkConsAPP.csprojResolveAssemblyReference.cache
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\obj\Debug\EntityFrameWorkConsAPP.csproj.CoreCompileInputs.cache
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\obj\Debug\EntityFrameWorkConsAPP.exe
+C:\Users\bijuj\source\repos\EntityFrameWorkConsAPP\EntityFrameWorkConsAPP\obj\Debug\EntityFrameWorkConsAPP.pdb
